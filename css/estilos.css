@@ -11,15 +11,15 @@
 :root{
   /*------ Colores */
   --green-color: rgb(120, 184, 221);
-  --black-color: grey ;
-  --white-color: white;
+  --black-color: #999999 ;
+  --white-color: #ffffff;
   /*------ Tipografía */
   --normal:12px;
   /*------ Espaciado */
   --space:10px;
   --space-2:20px;
   /*------ Box shadow*/
-  --box:0px 0 2px 1px #e6e5e9;
+  --box:0px 0 2px 1px #ffffff;
 }
 
 /* -------------------------------------------  */
@@ -33,7 +33,6 @@ html, body{
 p, label{
   font-size: var(--normal);
 }
-
 
 nav{
   display: flex;
