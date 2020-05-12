@@ -16,6 +16,7 @@
   --green-color: rgb(120, 184, 221);
   --black-color: #999999 ;
   --white-color: #ffffff;
+  --red-color: #df0b0b;
   /*------ Tipografía */
   --normal:12px;
   /*------ Espaciado */
@@ -43,7 +44,7 @@ nav{
   align-items: center;
   padding: var(--space);
   min-height: 60px;
-  background-color: var(--green-color);
+  background-color: var(--red-color);
 }
 
 nav a{
