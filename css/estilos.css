@@ -13,13 +13,16 @@
   --green-color: #7ACC2D;
   --black-color: #313337;
   --white-color: white;
+  --green-color: rgb(120, 184, 221);
+  --black-color: #999999 ;
+  --white-color: #ffffff;
   /*------ Tipografía */
   --normal:12px;
   /*------ Espaciado */
   --space:10px;
   --space-2:20px;
   /*------ Box shadow*/
-  --box:0px 0 2px 1px #e6e5e9;
+  --box:0px 0 2px 1px #ffffff;
 }
 
 /* -------------------------------------------  */
@@ -33,9 +36,6 @@ html, body{
 p, label{
   font-size: var(--normal);
 }
-
-
-
 
 nav{
   display: flex;
@@ -79,7 +79,7 @@ hr{
 /* -------------------------------------------  PRODUCTOS */
 
 .products{
-  background-image: url("../images/curve.png");
+  background-image: url("../images/fondo.jpg");
   padding: 15%;
   background-position: center top;
   background-repeat: no-repeat;
@@ -115,7 +115,7 @@ hr{
   color: var(--white-color);
 }
 .main_btn:hover{
-  background-color: #63a426;
+  background-color: lightblue;
 }
 
 /* Beneficios */
