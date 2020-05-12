@@ -10,7 +10,6 @@
 /*------ Variables */
 :root{
   /*------ Colores */
-  --black-color: #313337;
   --green-color: rgb(120, 184, 221);
   --black-color: grey ;
   --white-color: white;
@@ -34,8 +33,6 @@ html, body{
 p, label{
   font-size: var(--normal);
 }
-
-
 
 
 nav{
