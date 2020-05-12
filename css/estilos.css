@@ -94,6 +94,10 @@ hr{
   margin-top: -226px;
 }
 
+.product img{
+  max-height: 150px;
+}
+
 .image-product{
   text-align: center;
 }
