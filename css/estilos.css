@@ -10,8 +10,13 @@
 /*------ Variables */
 :root{
   /*------ Colores */
+<<<<<<< HEAD
   --green-color: #7ACC2D;
   --black-color: #313337;
+=======
+  --green-color: rgb(120, 184, 221);
+  --black-color: #d366c1;
+>>>>>>> fcc17e8c3bf9ef4bdff2f522b431957d1f176aa4
   --white-color: white;
   /*------ Tipografía */
   --normal:12px;
